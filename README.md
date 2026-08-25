@@ -5,6 +5,9 @@
 
 <br>
 
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca12f39b-3ac1-43f4-9e18-317296d5b1c7" />
+
+
 ## 레벨 1: Java 학습
 
 JAVA를 사용하여 각 미션의 어플리케이션을 개발하였습니다.
@@ -43,6 +46,9 @@ SpringBoot를 통해 웹 서비스를 구현하며 기능 추가,삭제,수정 �
 
 
 
+
+
+
 <br>
 
 
@@ -51,4 +57,8 @@ SpringBoot를 통해 웹 서비스를 구현하며 기능 추가,삭제,수정 �
 
 Spring을 사용하면서 고민 없이 작동되던 직렬화와 역직렬화에 대해서 공부하고, Spring에서 더 잘 사용하기 위한 방법들에 대해서 발표하였습니다.
 
+
+
 <br>
+
+
