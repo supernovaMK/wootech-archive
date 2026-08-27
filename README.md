@@ -43,8 +43,11 @@ SpringBoot를 통해 웹 서비스를 구현하며 기능 추가,삭제,수정 �
 
 [픽잇 프로젝트](https://github.com/woowacourse-teams/2025-pick-eat)
 
+<br>
 프로젝트 팀원에게 받은 피드백 - [LINK](https://scented-rooster-c1a.notion.site/Pickeat-2a796ab16e778093a8a6f3bf55f67dad?pvs=74)
+<br>
 프로젝트 사용자 피드백 - [LINK](https://scented-rooster-c1a.notion.site/Pickeat-UT-2a796ab16e778006bdecc50a65b22232?pvs=74)
+<br>
 백엔드 의사 결정 회의록 모음 - [LINK](https://scented-rooster-c1a.notion.site/Pickeat-2b696ab16e7780298af5d0708fdf96a9?source=copy_link)
 
 
